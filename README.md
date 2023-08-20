@@ -1,2 +1,2 @@
 # AWS-AI-WORKSHOP
-The integration of AI technolgy with AWS cloud
+The integration of AI technology with AWS cloud
